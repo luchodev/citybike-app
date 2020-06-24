@@ -1,0 +1,31 @@
+{
+   "name": "citybike-client",
+   "version": "0.1.0",
+   "private": true,
+   "dependencies": {
+      "leaflet": "^1.6.0",
+      "react": "^16.13.1",
+      "react-dom": "^16.13.1",
+      "react-leaflet": "^2.7.0",
+      "react-scripts": "^3.4.1",
+      "socket.io-client": "^2.3.0"
+   },
+   "optionalDependencies": {
+      "fsevents": "^2.0.1"
+   },
+   "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+   },
+   "eslintConfig": {
+      "extends": "react-app"
+   },
+   "browserslist": [
+      ">0.2%",
+      "not dead",
+      "not ie <= 11",
+      "not op_mini all"
+   ]
+}
