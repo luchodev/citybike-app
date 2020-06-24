@@ -1,5 +1,7 @@
 #Full Stack Dev test
 
+Developed in a windows 10 machine.
+
 The goal is to show a in a web view the avaiability of each location of City Bikes in Miami FL stations. For this project we will be using NodeJS / Socket IO / React and LeafLet Maps. For the data we are extracting availability from https://citybik.es/ to build the app.
 
 ##Objective 
